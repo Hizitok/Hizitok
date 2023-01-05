@@ -1,6 +1,6 @@
 /*
 - 👋 Hi, I’m @Hizi70k, or Hazet or HZT for short
-- 👀 I’m interested in Torching Fish
+- 👀 I’m interested in Sleeping and Wandering
 - 🌱 I’m currently learning Math BA
 - 💞️ I’m looking to collaborate on different ideas
 - 📫 Reach me at hzt17452@outlook.com
