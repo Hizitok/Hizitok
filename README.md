@@ -1,5 +1,5 @@
 /*
-- 👋 Hi, I’m @Hizi70k, or Hazet or HZT for short
+- 👋 Hi, I’m @Hizi70k, or Hazetfor short
 - 👀 I’m interested in Sleeping and Wandering
 - 🌱 I’m currently learning Math BA
 - 💞️ I’m looking to collaborate on different ideas
