@@ -1,4 +1,4 @@
-/*
+
 *"It's over, Anakin. I have the high ground."* — and by high ground, I mean math.
 
 - 📐 Forged in the fires of competitive programming (OI) and pure mathematics
@@ -11,5 +11,3 @@
 <!---
 Hizi70k/Hizi70k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-
-*/
